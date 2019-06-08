@@ -9,7 +9,7 @@ views:
           action: toggle
         entity: lock.schlage_be469_touchscreen_deadbolt_locked
         name: FRONT DOOR
-      - entity: weather.dark_sky
+      - entity: weather.weather
         type: weather-forecast
         name: Weather
       - type: gauge
