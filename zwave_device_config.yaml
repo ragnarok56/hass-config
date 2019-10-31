@@ -1,0 +1,3 @@
+sensor.schlage_be469_touchscreen_deadbolt_power_management:
+  ignored: false
+  polling_intensity: 0
